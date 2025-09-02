@@ -15,3 +15,7 @@ Ele simula um pequeno sistema de reprodução de músicas e podcasts, permitindo
   
 - **Pacote `principal`**
   - `Principal.java` → Executa a aplicação e faz os testes
+
+---
+
+💡 *Se você gostou deste projeto, deixe uma ⭐ no repositório!*
